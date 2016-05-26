@@ -10,3 +10,10 @@
 
 - xingshi_211.txt 常见姓氏拼音211个
 - xingming_1077099.txt 常见姓名拼音1,077,099个
+
+#### domain
+
+- iTDs_16.txt 国际顶级域名后缀16个
+- nTLDs_246.txt 国家顶级域名后缀246个
+- sub-domain_top_3000.txt 常见子域名TOP_3000
+- sub-domain_102598.txt 常见子域名102,598个
