@@ -1,6 +1,6 @@
 # secdict
 
-> 放一些高频字典、密码、关键字相关资料
+> 放一些字典、密码、关键字相关资料，不定时更新
 
 #### wifi
 
@@ -21,3 +21,8 @@
 #### username
 
 - system_top_11.txt &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;常见系统用户11个
+
+#### password
+
+- john_3106.txt &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;常用密码3,106个
+- 12306_top_100.txt &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12306 13W泄露密码TOP_100
