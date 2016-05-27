@@ -15,8 +15,8 @@
 
 - iTDs_16.txt &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;国际顶级域名后缀16个
 - nTLDs_246.txt &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;国家顶级域名后缀246个
-- sub-domain_top_3000.txt &nbsp;&nbsp;&nbsp;常见子域名TOP_3000
-- sub-domain_102598.txt &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;常见子域名102,598个
+- sub_domain_top_3000.txt &nbsp;&nbsp;&nbsp;常见子域名TOP_3000
+- sub_domain_102598.txt &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;常见子域名102,598个
 
 #### username
 
